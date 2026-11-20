@@ -148,6 +148,9 @@ Based on the analysis of the 5,000 employee training records:
 |---|---|
 | `TrainingEffectiveness.pbix` | Power BI dashboard report |
 | `Training_Effectiveness_PowerBIDashboard.pptx` | Project presentation |
+| `training_effectiveness_data.csv` | Project dataset |
+| `TrainingEffectiveness.pdf` | Exported pdf file |
+| `Readme.md` | Project overview |
 
 ## 🚀 How to Use This Project
 
@@ -159,17 +162,6 @@ Based on the analysis of the 5,000 employee training records:
 
 ## 📷 Dashboard Preview
 
-Add your Power BI dashboard screenshots here.
-
-Create a folder named `Screenshots` in your GitHub repository and upload screenshots of:
-
-- Overview Page
-- Program Performance Page
-- Analysis Page
-
-Then add the following Markdown:
-
-```markdown
 ![Overview](Screenshots/overview.png)
 
 ![Program Performance](Screenshots/program-performance.png)
