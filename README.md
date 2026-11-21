@@ -162,12 +162,12 @@ Based on the analysis of the 5,000 employee training records:
 
 ## 📷 Dashboard Preview
 
-![Overview](Screenshots/overview.png)
+![Overview](images/overview.png)
 
-![Program Performance](Screenshots/program-performance.png)
+![Program Performance](images/program_performance.png)
 
-![Analysis](Screenshots/analysis.png)
-```
+![Analysis](images/analysis.png)
+
 
 ## 🎓 Project Outcome
 
@@ -181,6 +181,4 @@ It provides insights into employee training effectiveness and helps organization
 
 **Tool:** Microsoft Power BI
 
-**Domain:** Human Resources Analytics (HR Analytics)
-
-**Author:** Your Name
+**Author:** Anjana P C
